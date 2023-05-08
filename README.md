@@ -1,8 +1,8 @@
-### Ball Detection and Diameter Calculation 
+# Ball Detection and Diameter Calculation 
 
 ## This is a project that used in the industrial ball making process to detect the ball that is successfully made.
 
-# This project is an implementation of a Python script that uses OpenCV library to catch images of balls and detect balls in images, enhance the contrast between the ball and the background, find its contour, calculate its diameter, and classify it into the value class of the ball close to the circle row.
+### This project is an implementation of a Python script that uses OpenCV library to catch images of balls and detect balls in images, enhance the contrast between the ball and the background, find its contour, calculate its diameter, and classify it into the value class of the ball close to the circle row.
 
 ## Requirement
 
